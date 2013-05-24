@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 coverage
 doc
 pkg
@@ -8,3 +9,23 @@ pkg
 .DS_Store
 .bundle/*
 Gemfile.lock
+=======
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+>>>>>>> c3c7253f52f49b87ed6a8b3c175e2858a9e95d64
